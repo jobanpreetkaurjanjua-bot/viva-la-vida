@@ -1,0 +1,6 @@
+{
+  "name": "Viva La Vida - Authentic Italian Dining & Online Ordering",
+  "description": "Experience authentic Italian-inspired cuisine, artisan pastas, handcrafted pizzas, table reservations, and swift online delivery at Viva La Vida, near Bus Stand, Gurdaspur, Punjab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
